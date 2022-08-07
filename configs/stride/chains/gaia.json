@@ -1,6 +1,6 @@
 {
-  type: cosmos
-    value: {
+ type: cosmos
+   value: {
     key: wallet,
     chain-id: GAIA,
     rpc-addr: http://46.8.19.172:23657,
