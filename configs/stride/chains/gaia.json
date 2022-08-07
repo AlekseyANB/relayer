@@ -1,7 +1,7 @@
 {
  "type": "cosmos"
  "value:
-  "key: wallet
+  "key : wallet
   "chain-id: GAIA
   "rpc-addr: http://46.8.19.172:23657
   "account-prefix: cosmos
